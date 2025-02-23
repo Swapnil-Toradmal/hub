@@ -107,7 +107,7 @@
 		}
         .whatsapp {
             position: fixed;
-            bottom: 20px;
+            bottom: 50px;
             right: 15px;
         }
         .whatsapp img {
@@ -116,7 +116,7 @@
         }
 	.instagram {
             position: fixed;
-            bottom: 20px;
+            bottom: 50px;
             left: 15px;
         }
         .instagram img {
