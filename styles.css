@@ -108,20 +108,20 @@
         .whatsapp {
             position: fixed;
             bottom: 20px;
-            right: 20px;
+            right: 15px;
         }
         .whatsapp img {
-            width: 60px;
-            height: 60px;
+            width: 50px;
+            height: 50px;
         }
-		.instagram {
+	.instagram {
             position: fixed;
             bottom: 20px;
-            left: 20px;
+            left: 15px;
         }
         .instagram img {
-            width: 60px;
-            height: 60px;
+            width: 40px;
+            height: 40px;
         }
         @media (max-width: 768px) {
             .products {
