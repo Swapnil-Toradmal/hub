@@ -11,7 +11,7 @@ function sendToWhatsApp() {
     }
 
     var whatsappURL = "https://wa.link/ijezpz"; // Updated WhatsApp link
-    var phoneNumber = "9975756365"; // Updated phone number
+    var phoneNumber = "+91 9975756365"; // Updated phone number
     var text = "Hello! My Name: " + name + "%0AEmail: " + email + "%0AMessage: " + message;
 
     // Open WhatsApp with the pre-filled message
