@@ -11,9 +11,8 @@ function sendToWhatsApp() {
     }
 
     var whatsappURL = "https://wa.link/ijezpz"; // Updated WhatsApp link
-    var phoneNumber = "919975756365"; // Updated phone number
     var text = "Hello! My Name: " + name + "%0AEmail: " + email + "%0AMessage: " + message;
 
     // Open WhatsApp with the pre-filled message
-    window.open("https://wa.me/" + phoneNumber + "?text=" + text, "_blank");
+    window.open("https://wa.me/919975757365?text=" + text, "_blank");
 }
